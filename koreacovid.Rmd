@@ -70,7 +70,8 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+The odds of man dying is 2.3 x greater than the odds of a female dying. 
 
 ## Conclusions
 
-In conclusion there was a greater percentages of females living compared to males.
+The data shows that it was more likely a male will die than a female.
